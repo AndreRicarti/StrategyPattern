@@ -1,0 +1,14 @@
+C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy\bin\Debug\net8.0\EncontroTech.Strategy.Dados.exe
+C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy\bin\Debug\net8.0\EncontroTech.Strategy.Dados.deps.json
+C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy\bin\Debug\net8.0\EncontroTech.Strategy.Dados.runtimeconfig.json
+C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy\bin\Debug\net8.0\EncontroTech.Strategy.Dados.dll
+C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy\bin\Debug\net8.0\EncontroTech.Strategy.Dados.pdb
+C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy\obj\Debug\net8.0\EncontroTech.Strategy.Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy\obj\Debug\net8.0\EncontroTech.Strategy.Dados.AssemblyInfoInputs.cache
+C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy\obj\Debug\net8.0\EncontroTech.Strategy.Dados.AssemblyInfo.cs
+C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy\obj\Debug\net8.0\EncontroTech.Strategy.Dados.csproj.CoreCompileInputs.cache
+C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy\obj\Debug\net8.0\EncontroTech.Strategy.Dados.dll
+C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy\obj\Debug\net8.0\refint\EncontroTech.Strategy.Dados.dll
+C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy\obj\Debug\net8.0\EncontroTech.Strategy.Dados.pdb
+C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy\obj\Debug\net8.0\EncontroTech.Strategy.Dados.genruntimeconfig.cache
+C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy\obj\Debug\net8.0\ref\EncontroTech.Strategy.Dados.dll
