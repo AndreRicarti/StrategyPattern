@@ -4,7 +4,6 @@ namespace EncontroTech.Strategy.Instance.Domain.Strategies.Payments.Interfaces;
 
 public interface IPaymentStrategy
 {
-    // Strategy - Interface
     // Ao invés de passar um atributo, eu passo a instância completa da compra
     void PayAsync(Order order);
 }

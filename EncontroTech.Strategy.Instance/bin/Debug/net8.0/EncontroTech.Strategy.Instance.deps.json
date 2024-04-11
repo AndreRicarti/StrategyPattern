@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EncontroTech.Strategy.Instance/1.0.0": {
+        "dependencies": {
+          "EncontroTech.Strategy.InstanceByInterface": "1.0.0"
+        },
+        "runtime": {
+          "EncontroTech.Strategy.Instance.dll": {}
+        }
+      },
+      "EncontroTech.Strategy.InstanceByInterface/1.0.0": {
+        "runtime": {
+          "EncontroTech.Strategy.InstanceByInterface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EncontroTech.Strategy.Instance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EncontroTech.Strategy.InstanceByInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

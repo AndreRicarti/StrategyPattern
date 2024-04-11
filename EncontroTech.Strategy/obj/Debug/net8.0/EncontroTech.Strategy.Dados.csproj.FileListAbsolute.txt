@@ -12,3 +12,4 @@ C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy\obj\Debug\net8.0\refint\E
 C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy\obj\Debug\net8.0\EncontroTech.Strategy.Dados.pdb
 C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy\obj\Debug\net8.0\EncontroTech.Strategy.Dados.genruntimeconfig.cache
 C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy\obj\Debug\net8.0\ref\EncontroTech.Strategy.Dados.dll
+C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy\obj\Debug\net8.0\EncontroTech.Strategy.Dados.sourcelink.json

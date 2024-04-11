@@ -2,20 +2,19 @@
 
 namespace EncontroTech.Strategy.Instance.Domain.Models;
 
-// Contexto - É a classe que vai utilizar a estratégia
-public sealed class Order
+public sealed class Order(
+    decimal price,
+    IPaymentStrategy paymentStrategy)
 {
-    public decimal Price { get; set; }
+    //public int Id { get; }
+    //public int ClientId { get; }
 
-    public Order(decimal price)
-    {
-        Price = price;
-    }
+    public decimal Price { get; } = price;
 
-    // Esse método recebe a estratégia de pagamento
-    // Quem for chamar esse método de processar compra, vai definir que vai ser utilizado
-    public void ProcessOrder(IPaymentStrategy paymentStrategy)
+    private IPaymentStrategy PaymentStrategy { get; } = paymentStrategy;
+
+    public void ProcessOrder()
     {
-        paymentStrategy.PayAsync(this);
+        PaymentStrategy.PayAsync(this);
     }
 }

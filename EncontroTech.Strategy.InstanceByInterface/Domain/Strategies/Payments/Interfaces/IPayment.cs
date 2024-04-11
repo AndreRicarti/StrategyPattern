@@ -5,5 +5,8 @@
 public interface IPayment
 {
     decimal GetValue();
-    // .. Poderia ter varios outros comportamentos
+
+    // PaymentStatus SetStatus();
+
+    // Podemos ter outros comportamentos
 }

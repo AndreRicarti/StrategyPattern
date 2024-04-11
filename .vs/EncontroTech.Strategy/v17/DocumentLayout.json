@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projeto\\EncontroTech.Strategy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A818990-8586-4EB5-8F78-6A58AA416A2C}|EncontroTech.Strategy.InstanceByInterface\\EncontroTech.Strategy.InstanceByInterface.csproj|c:\\projeto\\encontrotech.strategy\\encontrotech.strategy.instancebyinterface\\domain\\strategies\\payments\\debitcardpaymentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A818990-8586-4EB5-8F78-6A58AA416A2C}|EncontroTech.Strategy.InstanceByInterface\\EncontroTech.Strategy.InstanceByInterface.csproj|solutionrelative:encontrotech.strategy.instancebyinterface\\domain\\strategies\\payments\\debitcardpaymentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A818990-8586-4EB5-8F78-6A58AA416A2C}|EncontroTech.Strategy.InstanceByInterface\\EncontroTech.Strategy.InstanceByInterface.csproj|c:\\projeto\\encontrotech.strategy\\encontrotech.strategy.instancebyinterface\\domain\\strategies\\payments\\interfaces\\ipaymentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A818990-8586-4EB5-8F78-6A58AA416A2C}|EncontroTech.Strategy.InstanceByInterface\\EncontroTech.Strategy.InstanceByInterface.csproj|solutionrelative:encontrotech.strategy.instancebyinterface\\domain\\strategies\\payments\\interfaces\\ipaymentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A818990-8586-4EB5-8F78-6A58AA416A2C}|EncontroTech.Strategy.InstanceByInterface\\EncontroTech.Strategy.InstanceByInterface.csproj|c:\\projeto\\encontrotech.strategy\\encontrotech.strategy.instancebyinterface\\domain\\strategies\\payments\\interfaces\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A818990-8586-4EB5-8F78-6A58AA416A2C}|EncontroTech.Strategy.InstanceByInterface\\EncontroTech.Strategy.InstanceByInterface.csproj|solutionrelative:encontrotech.strategy.instancebyinterface\\domain\\strategies\\payments\\interfaces\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A818990-8586-4EB5-8F78-6A58AA416A2C}|EncontroTech.Strategy.InstanceByInterface\\EncontroTech.Strategy.InstanceByInterface.csproj|c:\\projeto\\encontrotech.strategy\\encontrotech.strategy.instancebyinterface\\domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A818990-8586-4EB5-8F78-6A58AA416A2C}|EncontroTech.Strategy.InstanceByInterface\\EncontroTech.Strategy.InstanceByInterface.csproj|solutionrelative:encontrotech.strategy.instancebyinterface\\domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A818990-8586-4EB5-8F78-6A58AA416A2C}|EncontroTech.Strategy.InstanceByInterface\\EncontroTech.Strategy.InstanceByInterface.csproj|c:\\projeto\\encontrotech.strategy\\encontrotech.strategy.instancebyinterface\\domain\\strategies\\payments\\creditcardpaymentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A818990-8586-4EB5-8F78-6A58AA416A2C}|EncontroTech.Strategy.InstanceByInterface\\EncontroTech.Strategy.InstanceByInterface.csproj|solutionrelative:encontrotech.strategy.instancebyinterface\\domain\\strategies\\payments\\creditcardpaymentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Projeto\\EncontroTech.Strategy\\EncontroTech.Strategy.InstanceByInterface\\Domain\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "EncontroTech.Strategy.InstanceByInterface\\Domain\\Models\\Order.cs",
+              "ToolTip": "C:\\Projeto\\EncontroTech.Strategy\\EncontroTech.Strategy.InstanceByInterface\\Domain\\Models\\Order.cs",
+              "RelativeToolTip": "EncontroTech.Strategy.InstanceByInterface\\Domain\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T01:37:55.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPayment.cs",
+              "DocumentMoniker": "C:\\Projeto\\EncontroTech.Strategy\\EncontroTech.Strategy.InstanceByInterface\\Domain\\Strategies\\Payments\\Interfaces\\IPayment.cs",
+              "RelativeDocumentMoniker": "EncontroTech.Strategy.InstanceByInterface\\Domain\\Strategies\\Payments\\Interfaces\\IPayment.cs",
+              "ToolTip": "C:\\Projeto\\EncontroTech.Strategy\\EncontroTech.Strategy.InstanceByInterface\\Domain\\Strategies\\Payments\\Interfaces\\IPayment.cs",
+              "RelativeToolTip": "EncontroTech.Strategy.InstanceByInterface\\Domain\\Strategies\\Payments\\Interfaces\\IPayment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T01:38:33.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPaymentStrategy.cs",
+              "DocumentMoniker": "C:\\Projeto\\EncontroTech.Strategy\\EncontroTech.Strategy.InstanceByInterface\\Domain\\Strategies\\Payments\\Interfaces\\IPaymentStrategy.cs",
+              "RelativeDocumentMoniker": "EncontroTech.Strategy.InstanceByInterface\\Domain\\Strategies\\Payments\\Interfaces\\IPaymentStrategy.cs",
+              "ToolTip": "C:\\Projeto\\EncontroTech.Strategy\\EncontroTech.Strategy.InstanceByInterface\\Domain\\Strategies\\Payments\\Interfaces\\IPaymentStrategy.cs",
+              "RelativeToolTip": "EncontroTech.Strategy.InstanceByInterface\\Domain\\Strategies\\Payments\\Interfaces\\IPaymentStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T01:38:15.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DebitCardPaymentStrategy.cs",
+              "DocumentMoniker": "C:\\Projeto\\EncontroTech.Strategy\\EncontroTech.Strategy.InstanceByInterface\\Domain\\Strategies\\Payments\\DebitCardPaymentStrategy.cs",
+              "RelativeDocumentMoniker": "EncontroTech.Strategy.InstanceByInterface\\Domain\\Strategies\\Payments\\DebitCardPaymentStrategy.cs",
+              "ToolTip": "C:\\Projeto\\EncontroTech.Strategy\\EncontroTech.Strategy.InstanceByInterface\\Domain\\Strategies\\Payments\\DebitCardPaymentStrategy.cs",
+              "RelativeToolTip": "EncontroTech.Strategy.InstanceByInterface\\Domain\\Strategies\\Payments\\DebitCardPaymentStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T01:38:23.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreditCardPaymentStrategy.cs",
+              "DocumentMoniker": "C:\\Projeto\\EncontroTech.Strategy\\EncontroTech.Strategy.InstanceByInterface\\Domain\\Strategies\\Payments\\CreditCardPaymentStrategy.cs",
+              "RelativeDocumentMoniker": "EncontroTech.Strategy.InstanceByInterface\\Domain\\Strategies\\Payments\\CreditCardPaymentStrategy.cs",
+              "ToolTip": "C:\\Projeto\\EncontroTech.Strategy\\EncontroTech.Strategy.InstanceByInterface\\Domain\\Strategies\\Payments\\CreditCardPaymentStrategy.cs",
+              "RelativeToolTip": "EncontroTech.Strategy.InstanceByInterface\\Domain\\Strategies\\Payments\\CreditCardPaymentStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T01:38:20.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

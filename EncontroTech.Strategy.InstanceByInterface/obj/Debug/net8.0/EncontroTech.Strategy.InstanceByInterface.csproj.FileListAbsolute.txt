@@ -1,0 +1,15 @@
+C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy.InstanceByInterface\bin\Debug\net8.0\EncontroTech.Strategy.InstanceByInterface.exe
+C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy.InstanceByInterface\bin\Debug\net8.0\EncontroTech.Strategy.InstanceByInterface.deps.json
+C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy.InstanceByInterface\bin\Debug\net8.0\EncontroTech.Strategy.InstanceByInterface.runtimeconfig.json
+C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy.InstanceByInterface\bin\Debug\net8.0\EncontroTech.Strategy.InstanceByInterface.dll
+C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy.InstanceByInterface\bin\Debug\net8.0\EncontroTech.Strategy.InstanceByInterface.pdb
+C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy.InstanceByInterface\obj\Debug\net8.0\EncontroTech.Strategy.InstanceByInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy.InstanceByInterface\obj\Debug\net8.0\EncontroTech.Strategy.InstanceByInterface.AssemblyInfoInputs.cache
+C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy.InstanceByInterface\obj\Debug\net8.0\EncontroTech.Strategy.InstanceByInterface.AssemblyInfo.cs
+C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy.InstanceByInterface\obj\Debug\net8.0\EncontroTech.Strategy.InstanceByInterface.csproj.CoreCompileInputs.cache
+C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy.InstanceByInterface\obj\Debug\net8.0\EncontroTech.Strategy.InstanceByInterface.sourcelink.json
+C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy.InstanceByInterface\obj\Debug\net8.0\EncontroTech.Strategy.InstanceByInterface.dll
+C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy.InstanceByInterface\obj\Debug\net8.0\refint\EncontroTech.Strategy.InstanceByInterface.dll
+C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy.InstanceByInterface\obj\Debug\net8.0\EncontroTech.Strategy.InstanceByInterface.pdb
+C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy.InstanceByInterface\obj\Debug\net8.0\EncontroTech.Strategy.InstanceByInterface.genruntimeconfig.cache
+C:\Projeto\EncontroTech.Strategy\EncontroTech.Strategy.InstanceByInterface\obj\Debug\net8.0\ref\EncontroTech.Strategy.InstanceByInterface.dll
