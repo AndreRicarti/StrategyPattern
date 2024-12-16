@@ -12,10 +12,8 @@ public sealed class Order(
     private decimal Price { get; } = price;
 
     // Esse método recebe a estratégia de pagamento
-    // Quem for chamar esse método de processar compra, vai definir que vai ser utilizado
     public void ProcessOrder()
     {
-        // Aqui vai ter validações, chamada de endpoint, etc
         PaymentStrategy.PayAsync(Price);
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EncontroTech.Strategy.Dados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87b74200d2132bddd9d8b361335aa57b6d72a8d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fedc4d819a76eec8dc55e7aec2fccd3b82fd74c")]
 [assembly: System.Reflection.AssemblyProductAttribute("EncontroTech.Strategy.Dados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EncontroTech.Strategy.Dados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
